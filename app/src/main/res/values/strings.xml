@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SnapchatClone</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Following">Following</string>
+    <string name="Follow">Follow</string>
+=    <string name="imageToSend">imageToSend</string>
+    <string name="users">users</string>
+    <string name="story">story</string>
+    <string name="captures">captures</string>
+    <string name="imageURL">imageURL</string>
+    <string name="timeStampBeg">timeStampBeg</string>
+    <string name="timeStampEnd">timeStampEnd</string>
+    <string name="following">following</string>
+    <string name="name">name</string>
+    <string name="userId">userId</string>
+    <string name="chatOrStory">chatOrStory</string>
+    <string name="UserName">User Name</string>
+    <string name="email">email</string>
+    <string name="UserEmail">User Email</string>
+    <string name="image">image/*</string>
+    <string name="Error">Error</string>
+    <string name="sww">Something went wrong</string>
+    <string name="data">data</string>
+    <string name="cac">com.android.camera.action.CROP</string>
+    <string name="crop">crop</string>
+    <string name="aspectX">aspectX</string>
+    <string name="aspectY">aspectY</string>
+    <string name="outputX">outputX</string>
+    <string name="user">user</string>
+    <string name="piu">profileImageUrl</string>
+    <string name="signinerror">Sign in Error</string>
+    <string name="outputY">outputY</string>
+    <string name="returndata">return-data</string>
+    <string name="Whoops">Whoops - your device doesn\'t support the crop action!</string>
+    <string name="Uploading">Uploading...</string>
+    <string name="profileImageUrl">profileImageUrl</string>
+    <string name="imageUploaded">Image Uploaded!!</string>
+    <string name="failed">\"Failed \"</string>
+    <string name="onFailure">onFailure: did not delete file</string>
+    <string name="onSuccess">onSuccess: deleted file</string>
+    <string name="sie">Sign in Error</string>
+    <string name="uploaded">\"Uploaded \"</string>
+    <string name="sign">%</string>
+</resources>
